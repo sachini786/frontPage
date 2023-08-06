@@ -17,7 +17,7 @@ function Application() {
             </p>
           </strong>
           <p className="subTopic">
-            ORECAL is provied more servies for the customers.
+            ORECAL is proived more servies for the customers.
             <br />
             if you have any problem contact us.
           </p>

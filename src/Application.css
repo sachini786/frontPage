@@ -1,0 +1,49 @@
+.container {
+  display: flex;
+  align-content: center;
+  justify-content: space-between;
+
+  height: 100vh;
+}
+.container div {
+  margin: 0.9vh;
+  width: 100%;
+}
+.subContainer1 {
+  display: flex;
+  margin-left: 5%;
+  align-items: center;
+  display: flex !important;
+}
+.subContainer2 {
+  align-items: center;
+  margin-right: auto;
+  display: flex;
+}
+
+.mainTopic {
+  font-family: BOLD SERIF;
+  font-size: 5.5vh;
+}
+.subTopic {
+  font-family: Bradley Hand, cursive;
+}
+.image {
+  height: auto;
+  width: 100%;
+  object-fit: cover;
+  object-position: object-position 50% 50%;
+}
+
+.button {
+  height: 7vh;
+  width: 10vw;
+  background-color: black;
+
+  border: none;
+  border-radius: 2vh;
+}
+.button:hover {
+  background-color: black;
+  transition: 0.7s;
+}

@@ -17,8 +17,9 @@ function Application() {
             </p>
           </strong>
           <p className="subTopic">
-            i am sachini nisansala .i proud of myself.i like to plat tkd <br />i
-            love all of them
+            ORECAL is provied more servies for the customers.
+            <br />
+            if you have any problem contact us.
           </p>
           <img className="image" src={logo} alt="Logo" />
         </div>
